@@ -16,5 +16,6 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "black",
-  "background_color": "white"
+  "background_color": "white",
+  "scope": "https://m.youtube.com/"
 }
